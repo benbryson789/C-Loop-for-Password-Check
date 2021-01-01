@@ -1,0 +1,13 @@
+C:\Users\debra_2qm34gh\source\repos\PasscodeLoop\PasscodeLoop\bin\Debug\netcoreapp3.1\PasscodeLoop.exe
+C:\Users\debra_2qm34gh\source\repos\PasscodeLoop\PasscodeLoop\bin\Debug\netcoreapp3.1\PasscodeLoop.deps.json
+C:\Users\debra_2qm34gh\source\repos\PasscodeLoop\PasscodeLoop\bin\Debug\netcoreapp3.1\PasscodeLoop.runtimeconfig.json
+C:\Users\debra_2qm34gh\source\repos\PasscodeLoop\PasscodeLoop\bin\Debug\netcoreapp3.1\PasscodeLoop.runtimeconfig.dev.json
+C:\Users\debra_2qm34gh\source\repos\PasscodeLoop\PasscodeLoop\bin\Debug\netcoreapp3.1\PasscodeLoop.dll
+C:\Users\debra_2qm34gh\source\repos\PasscodeLoop\PasscodeLoop\bin\Debug\netcoreapp3.1\PasscodeLoop.pdb
+C:\Users\debra_2qm34gh\source\repos\PasscodeLoop\PasscodeLoop\obj\Debug\netcoreapp3.1\PasscodeLoop.csprojAssemblyReference.cache
+C:\Users\debra_2qm34gh\source\repos\PasscodeLoop\PasscodeLoop\obj\Debug\netcoreapp3.1\PasscodeLoop.csproj.CoreCompileInputs.cache
+C:\Users\debra_2qm34gh\source\repos\PasscodeLoop\PasscodeLoop\obj\Debug\netcoreapp3.1\PasscodeLoop.AssemblyInfoInputs.cache
+C:\Users\debra_2qm34gh\source\repos\PasscodeLoop\PasscodeLoop\obj\Debug\netcoreapp3.1\PasscodeLoop.AssemblyInfo.cs
+C:\Users\debra_2qm34gh\source\repos\PasscodeLoop\PasscodeLoop\obj\Debug\netcoreapp3.1\PasscodeLoop.dll
+C:\Users\debra_2qm34gh\source\repos\PasscodeLoop\PasscodeLoop\obj\Debug\netcoreapp3.1\PasscodeLoop.pdb
+C:\Users\debra_2qm34gh\source\repos\PasscodeLoop\PasscodeLoop\obj\Debug\netcoreapp3.1\PasscodeLoop.genruntimeconfig.cache
